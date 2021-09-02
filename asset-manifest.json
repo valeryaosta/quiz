@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/quiz/static/css/main.eed84911.chunk.css",
+    "main.js": "/quiz/static/js/main.2b492645.chunk.js",
+    "main.js.map": "/quiz/static/js/main.2b492645.chunk.js.map",
+    "runtime-main.js": "/quiz/static/js/runtime-main.7fc51b13.js",
+    "runtime-main.js.map": "/quiz/static/js/runtime-main.7fc51b13.js.map",
+    "static/js/2.c5093ec2.chunk.js": "/quiz/static/js/2.c5093ec2.chunk.js",
+    "static/js/2.c5093ec2.chunk.js.map": "/quiz/static/js/2.c5093ec2.chunk.js.map",
+    "static/js/3.ef7d4d4d.chunk.js": "/quiz/static/js/3.ef7d4d4d.chunk.js",
+    "static/js/3.ef7d4d4d.chunk.js.map": "/quiz/static/js/3.ef7d4d4d.chunk.js.map",
+    "index.html": "/quiz/index.html",
+    "static/css/main.eed84911.chunk.css.map": "/quiz/static/css/main.eed84911.chunk.css.map",
+    "static/js/2.c5093ec2.chunk.js.LICENSE.txt": "/quiz/static/js/2.c5093ec2.chunk.js.LICENSE.txt",
+    "static/js/3.ef7d4d4d.chunk.js.LICENSE.txt": "/quiz/static/js/3.ef7d4d4d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/quiz/static/media/bg.98f6fe51.jpg",
+    "static/media/correct.160572d7.mp3": "/quiz/static/media/correct.160572d7.mp3",
+    "static/media/intro.f85cdbd2.mp3": "/quiz/static/media/intro.f85cdbd2.mp3",
+    "static/media/wrong.e9468218.mp3": "/quiz/static/media/wrong.e9468218.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7fc51b13.js",
+    "static/js/2.c5093ec2.chunk.js",
+    "static/css/main.eed84911.chunk.css",
+    "static/js/main.2b492645.chunk.js"
+  ]
+}
